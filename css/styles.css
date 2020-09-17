@@ -1,7 +1,10 @@
 /* styles */
 body{
-    width: 100%;
+    width: 40%;
 }
 p{
     background-color: yellow;
+}
+h2{
+    color: blue;
 }
